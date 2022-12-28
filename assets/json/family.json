@@ -1,0 +1,14 @@
+[{
+  "father": "Ahmad",
+  "mother": "Amina",
+  "fatherAge": 50,
+  "motherAge": 40,
+  "children": [
+    {
+      "son": "Ali",
+      "daughter": "Hannan",
+      "sonAge": 10,
+      "daughterAge": 6
+    }
+  ]
+}]

@@ -116,7 +116,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
         appBar: AppBar(
           title: const Text(
-            'Your news',
+            'Pagination',
             style: TextStyle(color: Colors.white),
           ),
         ),
